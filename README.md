@@ -1,7 +1,7 @@
 tranSPlot-ws
 =============
 
-Servidor responsável por centralizar a entrada e leitura dos dados por meio de um Web-Service RESTful, salvando em uma base de dados PostgreSQL.
+Servidor responsável por centralizar a entrada e leitura dos dados por meio de um Web-Service RESTful, salvando em uma base de dados PostgreSQL. Desenvolvido por José Eduardo de Melo Colabardini para BadRequest!
 
 1a Hackatona da CET
 
